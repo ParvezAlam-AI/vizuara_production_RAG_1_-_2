@@ -1,0 +1,22 @@
+# Notebooks (Part 1 and Part 2 coding)
+pymupdf
+spacy
+pandas
+numpy
+matplotlib
+tqdm
+sentence-transformers
+faiss-cpu
+ipykernel
+pyarrow
+
+# Deployment scripts (workshop files)
+openai
+tiktoken
+supabase
+python-dotenv
+pillow
+
+# Evaluation (notebook 04)
+ragas
+datasets

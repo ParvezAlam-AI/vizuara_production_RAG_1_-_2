@@ -1,0 +1,14 @@
+@"
+# folders you do NOT want in the repo
+deploy/
+notebooks/
+review/
+tools/
+vrag/
+
+# safety
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+"@ | Out-File -Encoding utf8 .gitignore
